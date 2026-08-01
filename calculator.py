@@ -1,4 +1,4 @@
-1
+
 # Simple Calculator in Python
 
 def add(a, b):
